@@ -1,0 +1,64 @@
+[INFO ] 12-05-2022 08:11:56.570 TC001_UserLoginTest - Chrome browser is launched
+[INFO ] 12-05-2022 08:11:58.015 TC001_UserLoginTest - Application is opened
+[INFO ] 12-05-2022 08:12:01.087 TC001_UserLoginTest - User logged into application successfully
+[INFO ] 12-05-2022 08:12:01.922 TC001_UserLoginTest - Close application Successfully.
+[INFO ] 12-05-2022 08:13:33.071 TC002_ForgotYourPasswordLinkDisplayedTest - Chrome browser is launched
+[INFO ] 12-05-2022 08:13:34.638 TC002_ForgotYourPasswordLinkDisplayedTest - Application is opened
+[INFO ] 12-05-2022 08:13:34.794 TC002_ForgotYourPasswordLinkDisplayedTest - Link is existing
+[INFO ] 12-05-2022 08:13:35.642 TC002_ForgotYourPasswordLinkDisplayedTest - Close application Successfully.
+[INFO ] 12-05-2022 08:48:36.796 TC001_UserLoginTest - Chrome browser is launched
+[INFO ] 12-05-2022 08:48:38.134 TC001_UserLoginTest - Application is opened
+[INFO ] 12-05-2022 08:48:40.947 TC001_UserLoginTest - User logged into application successfully
+[INFO ] 12-05-2022 08:48:41.873 TC001_UserLoginTest - Close application Successfully.
+[INFO ] 12-05-2022 08:48:43.472 TC002_ForgotYourPasswordLinkDisplayedTest - Chrome browser is launched
+[INFO ] 12-05-2022 08:48:44.878 TC002_ForgotYourPasswordLinkDisplayedTest - Application is opened
+[INFO ] 12-05-2022 08:48:44.977 TC002_ForgotYourPasswordLinkDisplayedTest - Link is existing
+[INFO ] 12-05-2022 08:48:45.802 TC002_ForgotYourPasswordLinkDisplayedTest - Close application Successfully.
+[INFO ] 14-05-2022 04:01:21.414 TC001_UserLoginTest - Chrome browser is launched
+[INFO ] 14-05-2022 04:01:22.285 TC001_UserLoginTest - Application is opened
+[INFO ] 14-05-2022 04:01:24.656 TC001_UserLoginTest - User logged into application successfully
+[INFO ] 14-05-2022 04:01:25.506 TC001_UserLoginTest - Close application Successfully.
+[INFO ] 14-05-2022 04:01:26.910 TC002_ForgotYourPasswordLinkDisplayedTest - Chrome browser is launched
+[INFO ] 14-05-2022 04:01:27.783 TC002_ForgotYourPasswordLinkDisplayedTest - Application is opened
+[INFO ] 14-05-2022 04:01:27.852 TC002_ForgotYourPasswordLinkDisplayedTest - Link is existing
+[INFO ] 14-05-2022 04:01:28.654 TC002_ForgotYourPasswordLinkDisplayedTest - Close application Successfully.
+[INFO ] 14-05-2022 04:07:17.837 TC001_UserLoginTest - Chrome browser is launched
+[INFO ] 14-05-2022 04:07:18.678 TC001_UserLoginTest - Application is opened
+[INFO ] 14-05-2022 04:07:20.995 TC001_UserLoginTest - User logged into application successfully
+[INFO ] 14-05-2022 04:07:21.780 TC001_UserLoginTest - Close application Successfully.
+[INFO ] 14-05-2022 04:07:23.245 TC002_ForgotYourPasswordLinkDisplayedTest - Chrome browser is launched
+[INFO ] 14-05-2022 04:07:24.104 TC002_ForgotYourPasswordLinkDisplayedTest - Application is opened
+[INFO ] 14-05-2022 04:07:24.220 TC002_ForgotYourPasswordLinkDisplayedTest - Link is existing
+[INFO ] 14-05-2022 04:07:25.022 TC002_ForgotYourPasswordLinkDisplayedTest - Close application Successfully.
+[INFO ] 14-05-2022 04:11:35.519 TC001_UserLoginTest - Chrome browser is launched
+[INFO ] 14-05-2022 04:11:36.475 TC001_UserLoginTest - Application is opened
+[INFO ] 14-05-2022 04:11:38.839 TC001_UserLoginTest - User logged into application successfully
+[INFO ] 14-05-2022 04:11:39.619 TC001_UserLoginTest - Close application Successfully.
+[INFO ] 14-05-2022 04:11:41.184 TC002_ForgotYourPasswordLinkDisplayedTest - Chrome browser is launched
+[INFO ] 14-05-2022 04:11:42.007 TC002_ForgotYourPasswordLinkDisplayedTest - Application is opened
+[INFO ] 14-05-2022 04:11:42.113 TC002_ForgotYourPasswordLinkDisplayedTest - Link is existing
+[INFO ] 14-05-2022 04:11:42.989 TC002_ForgotYourPasswordLinkDisplayedTest - Close application Successfully.
+[INFO ] 14-05-2022 04:15:51.711 TC001_UserLoginTest - Chrome browser is launched
+[INFO ] 14-05-2022 04:15:52.590 TC001_UserLoginTest - Application is opened
+[INFO ] 14-05-2022 04:15:55.078 TC001_UserLoginTest - User logged into application successfully
+[INFO ] 14-05-2022 04:15:55.776 TC001_UserLoginTest - Close application Successfully.
+[INFO ] 14-05-2022 04:15:57.208 TC002_ForgotYourPasswordLinkDisplayedTest - Chrome browser is launched
+[INFO ] 14-05-2022 04:15:58.155 TC002_ForgotYourPasswordLinkDisplayedTest - Application is opened
+[INFO ] 14-05-2022 04:15:58.255 TC002_ForgotYourPasswordLinkDisplayedTest - Link is existing
+[INFO ] 14-05-2022 04:15:59.010 TC002_ForgotYourPasswordLinkDisplayedTest - Close application Successfully.
+[INFO ] 14-05-2022 04:20:50.572 TC001_UserLoginTest - Chrome browser is launched
+[INFO ] 14-05-2022 04:20:51.529 TC001_UserLoginTest - Application is opened
+[INFO ] 14-05-2022 04:20:53.877 TC001_UserLoginTest - User logged into application successfully
+[INFO ] 14-05-2022 04:20:54.583 TC001_UserLoginTest - Close application Successfully.
+[INFO ] 14-05-2022 04:20:56.154 TC002_ForgotYourPasswordLinkDisplayedTest - Chrome browser is launched
+[INFO ] 14-05-2022 04:20:57.201 TC002_ForgotYourPasswordLinkDisplayedTest - Application is opened
+[INFO ] 14-05-2022 04:20:57.298 TC002_ForgotYourPasswordLinkDisplayedTest - Link is existing
+[INFO ] 14-05-2022 04:20:58.022 TC002_ForgotYourPasswordLinkDisplayedTest - Close application Successfully.
+[INFO ] 17-05-2022 07:51:20.147 TC001_UserLoginTest - Chrome browser is launched
+[INFO ] 17-05-2022 07:51:21.353 TC001_UserLoginTest - Application is opened
+[INFO ] 17-05-2022 07:51:23.648 TC001_UserLoginTest - User logged into application successfully
+[INFO ] 17-05-2022 07:51:24.395 TC001_UserLoginTest - Close application Successfully.
+[INFO ] 17-05-2022 07:51:25.772 TC002_ForgotYourPasswordLinkDisplayedTest - Chrome browser is launched
+[INFO ] 17-05-2022 07:51:26.645 TC002_ForgotYourPasswordLinkDisplayedTest - Application is opened
+[INFO ] 17-05-2022 07:51:26.753 TC002_ForgotYourPasswordLinkDisplayedTest - Link is existing
+[INFO ] 17-05-2022 07:51:27.521 TC002_ForgotYourPasswordLinkDisplayedTest - Close application Successfully.

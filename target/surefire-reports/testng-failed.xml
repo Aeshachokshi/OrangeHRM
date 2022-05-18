@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite verbose="0" name="Failed suite [Command line suite]">
+  <test thread-count="5" verbose="0" name="Command line test(failed)">
+    <classes>
+      <class name="com.Orangehrm.testCases.TC001_UserLoginTest">
+        <methods>
+          <include name="loginTest"/>
+          <include name="teardown"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- com.Orangehrm.testCases.TC001_UserLoginTest -->
+      <class name="com.Orangehrm.testCases.TC002_ForgotYourPasswordLinkDisplayedTest">
+        <methods>
+          <include name="teardown"/>
+          <include name="setup"/>
+          <include name="forgotYourPasswordTest"/>
+        </methods>
+      </class> <!-- com.Orangehrm.testCases.TC002_ForgotYourPasswordLinkDisplayedTest -->
+    </classes>
+  </test> <!-- Command line test(failed) -->
+</suite> <!-- Failed suite [Command line suite] -->
